@@ -1,4 +1,4 @@
-![codewars](https://www.codewars.com/users/numq/badges/large)
+[<img src="https://www.codewars.com/users/numq/badges/large">](https://www.codewars.com/users/numq/)
 
 <!--
 **numq/numq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
