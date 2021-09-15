@@ -2,7 +2,7 @@
 
 Current priority:
 
-Kotlin/Java(Android) → JS/TS → Python → C#(Unity) → Golang → C++ → C → Dart
+Kotlin/Java(Android) → JS/TS → Python → Haskell → C#(Unity) → Golang → C++ → C → Dart
 
 <!--
 **numq/numq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
