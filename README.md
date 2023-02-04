@@ -1,16 +1,23 @@
-[<img src="https://www.codewars.com/users/numq/badges/large">](https://www.codewars.com/users/numq/)
+<p align="center"><i> Hi there, I'm a self-taught who <s>obsessed with</s> loves programming.</i></p>
 
-<!--
-**numq/numq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
 
-Here are some ideas to get you started:
+<td align="center">:revolving_hearts:</td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
+<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/></td>
+<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></td>
+<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td>
+<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></td>
+<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></td>
+<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/></td>
+<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
+<td align="center">:revolving_hearts:</td>
+
+</h1>
+
+<div align="center"><a href="https://www.codewars.com/users/numq/"><img src="https://www.codewars.com/users/numq/badges/large" alt="numq"/></a></div>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=numq&show_icons=true&locale=en&layout=compact" alt="numq" /></div>
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=numq&" alt="numq" /></div>
