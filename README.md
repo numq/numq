@@ -1,3 +1,5 @@
+<div align="center">
+
 <p align="center"><i> Hi there, I'm a self-taught who <s>obsessed with</s> loves programming.</i></p>
 
 <h1 align="center">
@@ -21,3 +23,11 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=numq&show_icons=true&locale=en&layout=compact" alt="numq" /></div>
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=numq&" alt="numq" /></div>
+
+____
+
+[![Protobuf Blueprint](https://github.com/numq/protobuf-blueprint-plugin/blob/master/media/logo.png)](https://plugins.jetbrains.com/plugin/21792-protobuf-blueprint)
+
+[Try plugin for Intellij, make it easy to generate Protobuf code](https://plugins.jetbrains.com/plugin/21792-protobuf-blueprint)
+
+</div>
