@@ -1,23 +1,24 @@
-<p align="center"><i> Hi there, I'm a self-taught who <s>obsessed with</s> loves programming.</i></p>
+<div style="display: flex; justify-content: center; gap: 10px; padding: 10px; height: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" alt="haskell"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript"/>
+</div>
 
-<h1 align="center">
+___
 
-<td align="center">:revolving_hearts:</td>
+<div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=numq&show_icons=true&locale=en&layout=compact" alt="numq"/></div>
 
-<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
-<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/></td>
-<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></td>
-<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td>
-<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></td>
-<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></td>
-<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/></td>
-<td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
-<td align="center">:revolving_hearts:</td>
+<h1 style="text-align:center">"At least one meaningful commit per day"</h1>
 
-</h1>
+<div style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=numq&" alt="numq"/></div>
 
-<div align="center"><a href="https://www.codewars.com/users/numq/"><img src="https://www.codewars.com/users/numq/badges/large" alt="numq"/></a></div>
+___
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=numq&show_icons=true&locale=en&layout=compact" alt="numq" /></div>
-
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=numq&" alt="numq" /></div>
+<div style="text-align:center"><a href="https://www.codewars.com/users/numq/"><img src="https://www.codewars.com/users/numq/badges/large" alt="numq"/></a></div>
