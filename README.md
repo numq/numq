@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; gap: 10px; padding: 10px; height: 100px;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; padding: 10px; height: 100px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="64px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="64px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="64px"/>
@@ -15,7 +15,7 @@ ___
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=numq&show_icons=true&locale=en&layout=compact" alt="numq"/></div>
 
-<h1 style="text-align:center">"At least one meaningful commit per day"</h1>
+<h1 align="center">"At least one meaningful commit per day"</h1>
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=numq&" alt="numq"/></div>
 
