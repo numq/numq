@@ -1,4 +1,21 @@
-<iframe src="https://numq.github.io/support/" width="100%" height="100" frameborder="0" scrolling="no"></iframe>
+<div style="text-align: center;"><p><strong>🌟 Support me so that my mother is proud of me 🌟</strong><br/></div>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/bitcoin.png" alt="Bitcoin"/>
+    <p><strong>Bitcoin (BTC)</strong><br/>
+    <code>bc1qs6qq0fkqqhp4whwq8u8zc5egprakvqxewr5pmx</code></p>
+</div>
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/ethereum.png" alt="Ethereum"/>
+    <p><strong>Ethereum (ETH)</strong><br/>
+    <code>0x3147bEE3179Df0f6a0852044BFe3C59086072e12</code></p>
+</div>
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/tether.png" alt="USDT"/>
+    <p><strong>USDT (TRC-20)</strong><br/>
+    <code>TKznmR65yhPt5qmYCML4tNSWFeeUkgYSEV</code></p>
+</div>
+</div>
 
 ---
 
