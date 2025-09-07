@@ -3,7 +3,7 @@
         <strong>🌟 Support me so that my mother is proud of me 🌟</strong>
     </p>
 </div>
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 30px; margin-top: 20px;">
     <div style="text-align: center; min-width: 200px;">
         <div style="display: flex; align-items: center; justify-content: center; gap: 8px; margin-bottom: 10px;">
             <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/bitcoin.png" 
