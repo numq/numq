@@ -1,36 +1,22 @@
-<div align="center">
-  <strong>🌟 Support me so that my mother is proud of me 🌟</strong>
+<div style="text-align: center;"><p align="center">
+    <strong>🌟 Support me so that my mother is proud of me 🌟</strong></p><br/>
 </div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin-top: 12px;">
-
-  <!-- Bitcoin -->
-  <div style="display: flex; align-items: center; gap: 12px; padding: 12px 16px; border-radius: 12px; background-color: #f9f9f9; border: 1px solid #ccc;">
-    <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/bitcoin.png" alt="Bitcoin"/>
-    <div style="text-align: left; color: #000;">
-      <strong>Bitcoin (BTC)</strong><br/>
-      <code style="color: #111;">bc1qs6qq0fkqqhp4whwq8u8zc5egprakvqxewr5pmx</code>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/bitcoin.png"
+             alt="Bitcoin"/>
+        <p><strong>Bitcoin (BTC)</strong><br/><code>bc1qs6qq0fkqqhp4whwq8u8zc5egprakvqxewr5pmx</code></p>
     </div>
-  </div>
-
-  <!-- Ethereum -->
-  <div style="display: flex; align-items: center; gap: 12px; padding: 12px 16px; border-radius: 12px; background-color: #f9f9f9; border: 1px solid #ccc;">
-    <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/ethereum.png" alt="Ethereum"/>
-    <div style="text-align: left; color: #000;">
-      <strong>Ethereum (ETH)</strong><br/>
-      <code style="color: #111;">0x3147bEE3179Df0f6a0852044BFe3C59086072e12</code>
+    <div style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/ethereum.png"
+             alt="Ethereum"/>
+        <p><strong>Ethereum (ETH)</strong><br/> <code>0x3147bEE3179Df0f6a0852044BFe3C59086072e12</code></p>
     </div>
-  </div>
-
-  <!-- USDT -->
-  <div style="display: flex; align-items: center; gap: 12px; padding: 12px 16px; border-radius: 12px; background-color: #f9f9f9; border: 1px solid #ccc;">
-    <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/tether.png" alt="USDT"/>
-    <div style="text-align: left; color: #000;">
-      <strong>USDT (TRC-20)</strong><br/>
-      <code style="color: #111;">TKznmR65yhPt5qmYCML4tNSWFeeUkgYSEV</code>
+    <div style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/tether.png"
+             alt="USDT"/>
+        <p><strong>USDT (TRC-20)</strong><br/> <code>TKznmR65yhPt5qmYCML4tNSWFeeUkgYSEV</code></p>
     </div>
-  </div>
-
 </div>
 
 ---
