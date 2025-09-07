@@ -1,14 +1,8 @@
-<p align="center">
-    <strong>🌟 Support me so that my mother is proud of me 🌟</strong>
-</p>
-
-<div align="center">
-
-|                                                                                      Bitcoin (BTC)                                                                                       |                                                                                       Ethereum (ETH)                                                                                       |                                                                                USDT (TRC-20)                                                                                 |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/bitcoin.png" alt="Bitcoin" width="32"/><br><code>bc1qs6qq0fkqqhp4whwq8u8zc5egprakvqxewr5pmx</code> | <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/ethereum.png" alt="Ethereum" width="32"/><br><code>0x3147bEE3179Df0f6a0852044BFe3C59086072e12</code> | <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/tether.png" alt="USDT" width="32"/><br><code>TKznmR65yhPt5qmYCML4tNSWFeeUkgYSEV</code> |
-
-</div>
+|                                                               🌟                                                                |       Support me so that my mother is proud of me       |               
+|:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------:|
+|  <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/bitcoin.png" alt="Bitcoin" width="32"/>  | <code>bc1qs6qq0fkqqhp4whwq8u8zc5egprakvqxewr5pmx</code> | 
+| <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/ethereum.png" alt="Ethereum" width="32"/> | <code>0x3147bEE3179Df0f6a0852044BFe3C59086072e12</code> |
+|    <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/tether.png" alt="USDT" width="32"/>    |     <code>TKznmR65yhPt5qmYCML4tNSWFeeUkgYSEV</code>     |
 
 ---
 
