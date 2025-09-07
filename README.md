@@ -1,4 +1,4 @@
-<div style="text-align: center;"><p><strong>🌟 Support me so that my mother is proud of me 🌟</strong><br/></div>
+<div style="text-align: center;"><p align="center"><strong>🌟 Support me so that my mother is proud of me 🌟</strong><br/></div>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/bitcoin.png" alt="Bitcoin"/>
