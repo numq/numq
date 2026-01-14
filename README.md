@@ -1,6 +1,6 @@
 <div align="center" style="display: grid; justify-content: center;">
 
-|                                                                  🌟                                                                   |       Support me so that my mother is proud of me       |               
+|                                                                  🌟                                                                   |                   Support my projects                   |               
 |:-------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------:|
 |  <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/bitcoin.png" alt="Bitcoin (BTC)" width="32"/>  | <code>bc1qs6qq0fkqqhp4whwq8u8zc5egprakvqxewr5pmx</code> | 
 | <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/ethereum.png" alt="Ethereum (ETH)" width="32"/> | <code>0x3147bEE3179Df0f6a0852044BFe3C59086072e12</code> |
