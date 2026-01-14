@@ -10,11 +10,11 @@
 
 <br>
 
-<div align="center"><a href="https://wakatime.com/@018ecee5-57ac-4d53-9e8a-a02bf99c734f"><img src="https://wakatime.com/badge/user/018ecee5-57ac-4d53-9e8a-a02bf99c734f.svg" alt="Total time coded since Apr 11 2024" /></a></div>
+<div align="center"><a href="https://wakatime.com/@018ecee5-57ac-4d53-9e8a-a02bf99c734f"><img src="https://wakatime.com/badge/user/018ecee5-57ac-4d53-9e8a-a02bf99c734f.svg" alt="Wakatime" /></a></div>
 
 <br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=numq&show_icons=true&locale=en&layout=compact" alt="numq"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=numq&show_icons=true&locale=en&layout=compact" alt="Stats"/></div>
 
 <br>
 
@@ -35,8 +35,8 @@
 
 <h1 align="center">"At least one meaningful commit per day"</h1>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=numq&" alt="numq"/></div>
+<div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=numq" alt="Streak Stats"/></a></div>
 
 <br/>
 
-<div align="center"><a href="https://www.codewars.com/users/numq/"><img src="https://www.codewars.com/users/numq/badges/large" alt="numq"/></a></div>
+<div align="center"><a href="https://www.codewars.com/users/numq/"><img src="https://www.codewars.com/users/numq/badges/large" alt="Codewars"/></a></div>
