@@ -10,8 +10,6 @@
 
 </div>
 
-___
-
 <div align="center" style="display: flex; justify-content: center; gap: 10px; padding: 10px;">
 <a href="https://wakatime.com/@018ecee5-57ac-4d53-9e8a-a02bf99c734f"><img src="https://wakatime.com/badge/user/018ecee5-57ac-4d53-9e8a-a02bf99c734f.svg" alt="Wakatime"/></a>
 <a href="https://www.codewars.com/users/numq/"><img src="https://www.codewars.com/users/numq/badges/micro" alt="Codewars"/></a>
