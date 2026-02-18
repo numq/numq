@@ -16,9 +16,11 @@
       <td align="left" valign="middle" style="border: none;">
         <b style="font-size: 1.2em;">Support the development</b>
         <br>
+        <br>
         <div style="margin-bottom: 4px;">
           Check out <a href="https://github.com/numq/haskcore" style="text-decoration: none; color: #7aa2f7; font-weight: bold;">haskcore</a> — native Haskell IDE
         </div>
+        <br>
         <a href="https://numq.github.io/support" style="text-decoration: none;">
           <code style="color: #7aa2f7;">numq.github.io/support</code>
         </a>
