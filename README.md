@@ -22,9 +22,9 @@
 </div>
 
 <div align="center">
-    <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px; margin-top: 20px;">
+    <h3 align="center" style="margin-bottom: 5px; margin-top: 20px;">
         "At least one meaningful commit per day"
-    </div>
+    </h3>
     <br>
     <a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=numq&theme=dracula" alt="GitHub Streak"/></a>
 </div>
