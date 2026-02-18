@@ -15,10 +15,12 @@
       </td>
       <td align="left" valign="middle" style="border: none;">
         <b style="font-size: 1.2em;">Support the development</b>
-        <h5 style="margin: 4px 0;"></h5> <div>
+        <img src="https://raw.githubusercontent.com/adrianheis/transparent-pixel/master/transparent.png" height="6" width="1" style="display: block;">
+        <div>
           Check out <a href="https://github.com/numq/haskcore" style="text-decoration: none; color: #7aa2f7; font-weight: bold;">haskcore</a> — native Haskell IDE
         </div>
-        <h5 style="margin: 4px 0;"></h5> <a href="https://numq.github.io/support" style="text-decoration: none;">
+        <img src="https://raw.githubusercontent.com/adrianheis/transparent-pixel/master/transparent.png" height="6" width="1" style="display: block;">
+        <a href="https://numq.github.io/support" style="text-decoration: none;">
           <code style="color: #7aa2f7;">numq.github.io/support</code>
         </a>
       </td>
