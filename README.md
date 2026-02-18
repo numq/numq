@@ -25,7 +25,6 @@
     <h3 align="center" style="margin-bottom: 5px; margin-top: 20px;">
         "At least one meaningful commit per day"
     </h3>
-    <br>
     <a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=numq&theme=dracula" alt="GitHub Streak"/></a>
 </div>
 
