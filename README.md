@@ -5,21 +5,19 @@
 
 <br>
 
-<div align="center" style="margin: 30px 0;">
+<div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td align="center" valign="middle" style="padding-right: 25px; border: none;">
+      <td align="center" valign="middle" style="border: none; padding-right: 20px;">
         <a href="https://numq.github.io/support">
-          <img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://numq.github.io/support&bgcolor=1a1b26&color=7aa2f7" width="90" style="border-radius: 4px;">
+          <img src="https://api.qrserver.com/v1/create-qr-code/?size=112x112&data=https://numq.github.io/support&bgcolor=1a1b26&color=7aa2f7" width="112" style="border-radius: 4px;">
         </a>
       </td>
       <td align="left" valign="middle" style="border: none;">
         <b style="font-size: 1.2em;">Support the development</b>
-        <img src="https://raw.githubusercontent.com/adrianheis/transparent-pixel/master/transparent.png" height="6" width="1" style="display: block;">
-        <div>
-          Check out <a href="https://github.com/numq/haskcore" style="text-decoration: none; color: #7aa2f7; font-weight: bold;">haskcore</a> — native Haskell IDE
-        </div>
-        <img src="https://raw.githubusercontent.com/adrianheis/transparent-pixel/master/transparent.png" height="6" width="1" style="display: block;">
+        <br>
+        Check out <a href="https://github.com/numq/haskcore" style="text-decoration: none; color: #7aa2f7; font-weight: bold;">haskcore</a> — native Haskell IDE
+        <br>
         <a href="https://numq.github.io/support" style="text-decoration: none;">
           <code style="color: #7aa2f7;">numq.github.io/support</code>
         </a>
