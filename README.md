@@ -8,19 +8,18 @@
 <div align="center" style="margin: 30px 0;">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td align="center" valign="middle" style="padding-right: 20px; border: none;">
+      <td align="center" valign="middle" style="padding-right: 25px; border: none;">
         <a href="https://numq.github.io/support">
           <img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://numq.github.io/support&bgcolor=1a1b26&color=7aa2f7" width="90" style="border-radius: 4px;">
         </a>
       </td>
       <td align="left" valign="middle" style="border: none;">
         <b style="font-size: 1.2em;">Support the development</b>
-        <br>
-        <br>
-        <div style="margin-bottom: 4px;">
+        <div style="height: 8px;"></div>
+        <div>
           Check out <a href="https://github.com/numq/haskcore" style="text-decoration: none; color: #7aa2f7; font-weight: bold;">haskcore</a> — native Haskell IDE
         </div>
-        <br>
+        <div style="height: 8px;"></div>
         <a href="https://numq.github.io/support" style="text-decoration: none;">
           <code style="color: #7aa2f7;">numq.github.io/support</code>
         </a>
