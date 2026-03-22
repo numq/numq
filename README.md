@@ -8,7 +8,7 @@
     <img src="https://api.qrserver.com/v1/create-qr-code/?size=112x112&data=https://numq.github.io/support&bgcolor=1a1b26&color=7aa2f7" 
          width="112" 
          align="middle" 
-         style="border-radius: 4px;">
+         style="border-radius: 4px;" alt="numq.github.io/support">
   </a>
   <span style="display: inline-block; vertical-align: middle; text-align: center; margin-left: 20px;">
     <b style="font-size: 1.2em; color: #7aa2f7; display: block; margin-bottom: 5px;">Support</b>
