@@ -5,25 +5,22 @@
 
 <br>
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px; max-width: 400px;">
-    <a href="https://numq.github.io/support" style="text-decoration: none; flex-shrink: 0;">
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=112x112&data=https://numq.github.io/support&bgcolor=1a1b26&color=7aa2f7" 
-           width="112" 
-           height="112" 
-           style="border-radius: 6px; display: block;" 
-           alt="QR code">
+<p align="center">
+  <a href="https://numq.github.io/support" style="text-decoration: none;">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=112x112&data=https://numq.github.io/support&bgcolor=1a1b26&color=7aa2f7" 
+         width="112" height="112" align="middle" style="border-radius: 4px;" alt="QR code">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span align="center" style="display: inline-block; vertical-align: middle;">
+    <a href="https://numq.github.io/support" style="text-decoration: none;">
+      <font color="#7aa2f7" size="5"><b>Support</b></font>
     </a>
-    <div style="display: flex; flex-direction: column; align-items: center; min-width: 180px;">
-      <b style="font-size: 1.3em; color: #7aa2f7; margin-bottom: 8px; font-family: 'JetBrains Mono', monospace;">Support:</b>
-      <a href="https://numq.github.io/support" style="text-decoration: none;">
-        <code style="color: #bb9af7; background: rgba(187, 154, 247, 0.05); padding: 3px 8px; border-radius: 4px; border: 1px solid rgba(187, 154, 247, 0.1);">
-          numq.github.io/support
-        </code>
-      </a>
-    </div>
-  </div>
-</div>
+    <br>
+    <a href="https://numq.github.io/support" style="text-decoration: none;">
+      <code><font color="#bb9af7">numq.github.io/support</font></code>
+    </a>
+  </span>
+</p>
 
 ___
 
