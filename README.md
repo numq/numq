@@ -3,30 +3,22 @@
     <a href="https://www.codewars.com/users/numq/"><img src="https://www.codewars.com/users/numq/badges/micro" alt="Codewars"/></a>
 </div>
 
-<br>
+<p align="center">
+  <a href="https://numq.github.io/support">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=112x112&data=https://numq.github.io/support&bgcolor=1a1b26&color=7aa2f7" 
+         width="112" 
+         align="middle" 
+         style="border-radius: 4px;">
+  </a>
+  <span style="display: inline-block; vertical-align: middle; text-align: center; margin-left: 20px;">
+    <b style="font-size: 1.2em; color: #7aa2f7; display: block; margin-bottom: 5px;">Support</b>
+    <a href="https://numq.github.io/support" style="text-decoration: none;">
+      <code style="color: #bb9af7;">numq.github.io/support</code>
+    </a>
+  </span>
+</p>
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center" valign="middle" style="border: none; padding-right: 20px;">
-        <a href="https://numq.github.io/support">
-          <img src="https://api.qrserver.com/v1/create-qr-code/?size=112x112&data=https://numq.github.io/support&bgcolor=1a1b26&color=7aa2f7" width="120" style="border-radius: 4px;">
-        </a>
-      </td>
-      <td align="left" valign="middle" style="border: none;">
-        <b style="font-size: 1.2em;">Support the development</b>
-        <br>
-        <br>
-        Check out <a href="https://github.com/numq/haskcore" style="text-decoration: none; color: #7aa2f7; font-weight: bold;">haskcore</a> — native Haskell IDE
-        <br>
-        <br>
-        <a href="https://numq.github.io/support" style="text-decoration: none;">
-          <code style="color: #7aa2f7;">numq.github.io/support</code>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+___
 
 <div align="center">
     <h3 align="center" style="margin-bottom: 5px; margin-top: 20px;">
