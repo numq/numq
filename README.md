@@ -3,6 +3,8 @@
     <a href="https://www.codewars.com/users/numq/"><img src="https://www.codewars.com/users/numq/badges/micro" alt="Codewars"/></a>
 </div>
 
+<br>
+
 <p align="center">
   <a href="https://numq.github.io/support">
     <img src="https://api.qrserver.com/v1/create-qr-code/?size=112x112&data=https://numq.github.io/support&bgcolor=1a1b26&color=7aa2f7" width="112" height="112" align="center" style="border-radius: 4px;" alt="QR code">
