@@ -3,23 +3,15 @@
     <a href="https://www.codewars.com/users/numq/"><img src="https://www.codewars.com/users/numq/badges/micro" alt="Codewars"/></a>
 </div>
 
-<br>
-
 <p align="center">
-  <a href="https://numq.github.io/support" style="text-decoration: none;">
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=112x112&data=https://numq.github.io/support&bgcolor=1a1b26&color=7aa2f7" 
-         width="112" height="112" align="middle" style="border-radius: 4px;" alt="QR code">
+  <a href="https://numq.github.io/support">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=112x112&data=https://numq.github.io/support&bgcolor=1a1b26&color=7aa2f7" width="112" height="112" align="center" style="border-radius: 4px;" alt="QR code">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span align="center" style="display: inline-block; vertical-align: middle;">
-    <a href="https://numq.github.io/support" style="text-decoration: none;">
-      <font color="#7aa2f7" size="5"><b>Support</b></font>
-    </a>
-    <br>
-    <a href="https://numq.github.io/support" style="text-decoration: none;">
-      <code><font color="#bb9af7">numq.github.io/support</font></code>
-    </a>
-  </span>
+  <br>
+  <br>
+  <a href="https://numq.github.io/support" style="text-decoration: none;">
+    <code><font color="#bb9af7">numq.github.io/support</font></code>
+  </a>
 </p>
 
 ___
