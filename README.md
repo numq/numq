@@ -3,21 +3,6 @@
     <a href="https://www.codewars.com/users/numq/"><img src="https://www.codewars.com/users/numq/badges/micro" alt="Codewars"/></a>
 </div>
 
-<br>
-
-<p align="center">
-  <a href="https://numq.github.io/support">
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=112x112&data=https://numq.github.io/support&bgcolor=1a1b26&color=7aa2f7" width="112" height="112" align="center" style="border-radius: 4px;" alt="QR code">
-  </a>
-  <br>
-  <br>
-  <a href="https://numq.github.io/support" style="text-decoration: none;">
-    <code><font color="#bb9af7">numq.github.io/support</font></code>
-  </a>
-</p>
-
-___
-
 <div align="center">
     <h3 align="center" style="margin-bottom: 5px; margin-top: 20px;">
         "At least one meaningful commit per day"
@@ -25,13 +10,9 @@ ___
     <a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=numq&theme=dracula" alt="GitHub Streak"/></a>
 </div>
 
-<br>
-
 <div align="center" style="margin-top: 20px;">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=numq&layout=compact&theme=dracula" alt="Most Used Languages"/>
 </div>
-
-<br>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; padding-top: 20px; height: 60px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40px"/>
@@ -46,4 +27,18 @@ ___
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40px"/>
 </div>
 
-<br>
+___
+
+<p align="center">
+  <a href="https://numq.github.io/support">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=112x112&data=https://numq.github.io/support&bgcolor=1a1b26&color=7aa2f7" 
+         width="112" 
+         height="112" 
+         style="border-radius: 4px;" 
+         alt="QR code">
+  </a>
+  <br>
+  <a href="https://numq.github.io/support" style="text-decoration: none;">
+    <code><font color="#bb9af7">numq.github.io/support</font></code>
+  </a>
+</p>
